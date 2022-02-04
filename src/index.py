@@ -1,6 +1,6 @@
 import unittest
 from varasto import Varasto
-
+#Merge commit test
 
 def main():
     mehua = Varasto(100.0)
